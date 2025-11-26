@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "napp-app-protecta-security",
+    "slug": "napp-app-protecta-security",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.enriquebasurto.napp-app-protecta-security"
+    },
+    "android": {
+      "package": "com.enriquebasurto.nappappprotectasecurity"
+    }
+  }
+}
